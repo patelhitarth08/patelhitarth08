@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/patelhitarth08" target="blank"><img src="https://img.shields.io/twitter/follow/patelhitarth08?logo=twitter&style=for-the-badge" alt="patelhitarth08" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Django**
 
 - 🌱 I’m currently learning **ReactJS**
 
