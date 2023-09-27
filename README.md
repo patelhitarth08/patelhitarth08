@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelhitarth08&show_icons=true&locale=en" alt="patelhitarth08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelhitarth08&" alt="patelhitarth08" /></p>
-
+[![Hitarth Patel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patelhitarth08&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
