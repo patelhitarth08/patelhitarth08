@@ -75,7 +75,7 @@
 
 
 <br>
-
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=patelhitarth08&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
